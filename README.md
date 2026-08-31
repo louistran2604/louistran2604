@@ -9,7 +9,3 @@ Hi, my name is Louis, and I am interested in Linux, AI, Python, and automation.
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=louistran2604&theme=github-dark-blue&hide_border=true" />
 </p>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/louistran2604" />
-</p>
