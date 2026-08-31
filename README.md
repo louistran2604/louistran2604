@@ -1,16 +1,17 @@
-## Hi there 👋
+# My name is Louis
 
-<!--
-**louistran2604/louistran2604** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am interested in AI, Python, Linux, and automation.
 
-Here are some ideas to get you started:
+## Currently working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- transfers_n8n — football transfers digest system
+
+## Activity
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=louistran2604&theme=github-compact&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+[![Streak](https://streak-stats.demolab.com?user=louistran2604&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
+
+<p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=louistran2604&show_icons=true&theme=github_dark&hide_border=true" />
+</p>
