@@ -8,7 +8,6 @@ Hi, my name is Louis, and I am interested in Linux, AI, Python, and automation.
 
 <p align="center">
   <img height="170" src="https://streak-stats.demolab.com?user=louistran2604&theme=github-dark-blue&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=louistran2604&show_icons=true&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
